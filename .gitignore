@@ -169,3 +169,7 @@ pyvenv.cfg
 .venv
 pip-selfcheck.json
 
+/Test 3.py
+/Test2.py
+/test.py
+/.idea/vcs.xml
