@@ -6,7 +6,9 @@ print '   _____ __                       __         __\n  / ___// /__________ __
       '_/_/ /_/\__,_/\___/\__,_/   \n '
 
 
-Beach = Room('Beach', "You find yourself awake on a beach - palm trees swaying in the wind, the ocean breeze upon your face, and white sand all around you. You see half of a ship lodged between two ", 1)
+Beach = Room('Beach', "You find yourself awake on a beach - palm trees swaying in the wind, the ocean breeze upon "
+                      "your face, and white sand all around you. You see half of a ship lodged between two rocks and "
+                      "a large opening facing you. There is a wallet on the floor about a yard away", 1)
 dining = Room('dining room', 'you are in the dining room', 2)
 hallway = Room('hallway', 'you are in the hallway', 3)
 hallway2 = Room('upstairs hallway', "You are in the upstairs hallway", 4)
